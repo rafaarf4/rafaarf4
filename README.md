@@ -94,17 +94,6 @@ I enjoy turning ideas into real products—from planning user flows and designin
 
 ---
 
-# GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rafaarf4&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaarf4&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
 
 # GitHub Streak
 
@@ -116,23 +105,6 @@ I enjoy turning ideas into real products—from planning user flows and designin
 
 ---
 
-# Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaarf4&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# Connect with Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/rafaayurf">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
 
 </p>
 
