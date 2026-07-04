@@ -1,16 +1,99 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rafaarf4/rafaarf4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Rafa Ayu
 
-Here are some ideas to get you started:
+**Full Stack Web Developer • UI/UX Designer • Informatics Student**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building web applications, designing user experiences, and developing IoT-based solutions.
+
+[LinkedIn](https://linkedin.com/in/rafaayurf)
+
+</div>
+
+---
+
+## About
+
+I am an Informatics student with an interest in software development, user experience design, and Internet of Things (IoT). I enjoy designing digital products from the initial planning stage through implementation, combining user-centered design with scalable and maintainable applications.
+
+My experience includes frontend and backend development, RESTful API development, database design, UI/UX design, interactive prototyping, and IoT projects using ESP32 and Raspberry Pi.
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+- HTML
+- CSS
+- PHP
+- JavaScript
+- TypeScript
+
+### Frontend
+
+- Vue.js
+- React.js
+- Vite
+- Bootstrap
+- Responsive Web Design
+
+### Backend
+
+- Node.js
+- Laravel
+- RESTful API
+- AJAX
+
+### Database
+
+- MySQL
+- Database Design
+
+### UI/UX
+
+- Figma
+- Wireframing
+- Interactive Prototyping
+- Design System
+- User Flow
+- Business Process Modeling
+
+### Internet of Things
+
+- ESP32
+- Raspberry Pi
+- Smart Parking System
+- Sensor Integration
+
+### Tools
+
+- Git
+- GitHub
+- Visual Studio Code
+- Postman
+  
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rafaarf4&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaarf4&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## Current Focus
+
+- UI/UX Design
+- Frontend Engineering
+- Backend Engineering
+- Full Stack Web Development
+- Internet of Things (IoT)
+
+---
+
+## Contact
+
+- LinkedIn: https://linkedin.com/in/rafaayurf
