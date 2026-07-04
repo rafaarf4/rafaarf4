@@ -75,15 +75,6 @@ My experience includes frontend and backend development, RESTful API development
   
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rafaarf4&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaarf4&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 ## Current Focus
 
 - UI/UX Design
