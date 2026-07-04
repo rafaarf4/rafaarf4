@@ -1,90 +1,145 @@
 <div align="center">
 
-# Rafa Ayu
+# Hi, I'm Rafa Ayu Radhyafitri 👋
 
-**Full Stack Web Developer • UI/UX Designer • Informatics Student**
+### Full Stack Web Developer • UI/UX Designer • Informatics Student
 
-Building web applications, designing user experiences, and developing IoT-based solutions.
+Building modern web applications, designing intuitive user experiences, and developing IoT-based solutions.
 
-[LinkedIn](https://linkedin.com/in/rafaayurf)
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaayurf)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaarf4)
 
 </div>
 
 ---
 
-## About
+# About Me
 
-I am an Informatics student with an interest in software development, user experience design, and Internet of Things (IoT). I enjoy designing digital products from the initial planning stage through implementation, combining user-centered design with scalable and maintainable applications.
+I'm an Informatics student with a strong interest in **Full Stack Web Development**, **UI/UX Design**, and **Internet of Things (IoT)**.
 
-My experience includes frontend and backend development, RESTful API development, database design, UI/UX design, interactive prototyping, and IoT projects using ESP32 and Raspberry Pi.
+I enjoy turning ideas into real products—from planning user flows and designing interfaces to building scalable backend systems and integrating hardware for IoT applications.
 
 ---
 
-## Technical Skills
+# Tech Stack
 
 ### Programming Languages
 
-- HTML
-- CSS
-- PHP
-- JavaScript
-- TypeScript
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
+</p>
 
-### Frontend
+### Frontend Development
 
-- Vue.js
-- React.js
-- Vite
-- Bootstrap
-- Responsive Web Design
+<p>
+<img src="https://skillicons.dev/icons?i=react,vue,vite,bootstrap" />
+</p>
 
-### Backend
+### Backend Development
 
-- Node.js
-- Laravel
-- RESTful API
-- AJAX
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
+</p>
 
 ### Database
 
-- MySQL
-- Database Design
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-### UI/UX
+### UI / UX
 
-- Figma
-- Wireframing
-- Interactive Prototyping
-- Design System
-- User Flow
-- Business Process Modeling
+<p>
+<img src="https://skillicons.dev/icons?i=figma" />
+</p>
 
-### Internet of Things
+### IoT
 
-- ESP32
-- Raspberry Pi
-- Smart Parking System
-- Sensor Integration
+<p>
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
+</p>
 
 ### Tools
 
-- Git
-- GitHub
-- Visual Studio Code
-- Postman
-  
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
+
 ---
 
-## Current Focus
+# Technical Expertise
 
 - UI/UX Design
-- Frontend Engineering
-- Backend Engineering
+- Wireframing & Interactive Prototyping
+- Frontend Development
+- Backend Development
 - Full Stack Web Development
-- Internet of Things (IoT)
+- RESTful API Development
+- AJAX Integration
+- Database Design (MySQL)
+- User Flow & Business Process Modeling
+- Internet of Things (ESP32 & Raspberry Pi)
 
 ---
 
-## Contact
+# Current Focus
 
-- LinkedIn: https://linkedin.com/in/rafaayurf
+- UI/UX Design
+- Frontend Development
+- Backend Development
+- Full Stack Web Development
+- IoT Solutions
+
+---
+
+# GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rafaarf4&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaarf4&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rafaarf4&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaarf4&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# Connect with Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/rafaayurf">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile!
+
+</div>
